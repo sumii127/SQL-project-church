@@ -1,4 +1,5 @@
-# Church Conference Website Project By: Suamy Hernandez, Alicia Martinez, Maden Edaugal
+# Church Conference Website Project 
+### By: Suamy Hernandez, Alicia Martinez, Maden Edaugal
 ## Description
 In this project, one will be developing a web-based application to facilitate the registration and management of multiple church conferences.
 The final web application will be featuring online registration for attendees and administrative capabilities for managing multiple church conferences.
