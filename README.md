@@ -21,4 +21,4 @@ For this project, there are 8 tasks one must complete to finish the project succ
   7. Design a User Interface
   8. Implement two specific SQL views
  ## Phase 1: Submission of 11/10/23
-      
+ 
