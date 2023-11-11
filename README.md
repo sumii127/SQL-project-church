@@ -21,4 +21,11 @@ For this project, there are 8 tasks one must complete to finish the project succ
   7. Design a User Interface
   8. Implement two specific SQL views
  ## Phase 1: Submission of 11/10/23
- 
+ In this first phase what will be submitted is:
+ * A report which includes:
+   * An ER diagram which provides a visual representation of entities, attributes and the relationships.
+   * A database schema which is a diagram s=showing the tables, fields, data types, primary keys, and the foreign keys.
+   * A database constraints list and its explanation of its use.
+* A .zip file which will include:
+   * SQL files of the created tables and constraints. (includes the DDL commands)
+   * A README.md file which details what will be in the submission.
