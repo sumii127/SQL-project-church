@@ -29,5 +29,5 @@ For this project, there are 8 tasks one must complete to finish the project succ
 * A .zip file which will include:
    * SQL files of the created tables and constraints. (includes the DDL commands)
    * A README.md file which details what will be in the submission.
-  ## Phase 2: FINAL Submission of 12/4/23
-  in this final phase 
+## Phase 2: FINAL Submission of 12/4/23
+  In this final phase of the project, this is what will be submitted: 
