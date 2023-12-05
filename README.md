@@ -30,4 +30,47 @@ For this project, there are 8 tasks one must complete to finish the project succ
    * SQL files of the created tables and constraints. (includes the DDL commands)
    * A README.md file which details what will be in the submission.
 ## Phase 2: FINAL Submission of 12/4/23
-  In this final phase of the project, this is what will be submitted: 
+  In this final phase of the project, what will be submitted is:
+  * A report which includes:
+    1. An executive Summary
+    2. An introduction
+    3. The projects specifications
+    4. The database design which includes:
+       * ER diagram
+       * Database schema
+       * Entities and attributes
+       * Relations
+       * And constraints
+    5.Implementation details which includes:
+       * Relational database schema and constraints
+       * Data definition language (DDL)
+       * Data manipulation language (DML)
+       * SQL modifications and indexes
+    6. User interface design
+    7. SQL views and operations which includes:
+       * 2 CREATE VIEW implementations
+       * 10 implemented SQL queries
+    8. Technologies used
+    9. Challenges and solutions
+    10. User guide and installation
+    11. Conclusions
+    12. Appendices
+  * A zip file which includes:
+    1. code of conduct for all 3 teammates
+    2. The README.md file
+    3. PHP pages
+    4. HTML pages
+    5. SQL files
+## A step by step on how to run this final phase on ones own PC
+  * step 1. the user will open their MySQL workbench and create a new schema and run the file 
+    church_project_by_alicia_suamy_maden.sql to create the tables and the SQL operations.
+  * step 2. you will run the db_church_script.sql to populate the tables with the sample data.
+  * step 3. once all of the sql files are running and saved, you will create a new folder in 
+    your C drive under the xampp\htdocs and copy the websitee.zip and extract it inside the 
+    folder.
+  * step 4. open the xampp control panel and run PHP and SQL
+  * step 5. open your web browser and go to http://localhost/index3.php and from there you can 
+    access the website and its features.
+  * step 6. you are done!
+
+       
