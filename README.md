@@ -73,4 +73,8 @@ For this project, there are 8 tasks one must complete to finish the project succ
     access the website and its features.
   * step 6. you are done!
 
+## Our contributions:
+# Alicia:
+# Suamy:
+# Maden:
        
