@@ -74,7 +74,7 @@ For this project, there are 8 tasks one must complete to finish the project succ
   * step 6. you are done!
 
 ## Our contributions:
-# Alicia :
+# [Alicia Martinez](https://github.com/AliciaM0824)::
 # [Suamy Hernandez](https://github.com/sumii127):
-# Maden(:
+# [Maden Edaugal](https://github.com/maden07):
        
