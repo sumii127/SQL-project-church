@@ -75,6 +75,6 @@ For this project, there are 8 tasks one must complete to finish the project succ
 
 ## Our contributions:
 # Alicia :
-# Suamy !cite_(sumii127):
-# Maden !cite_(:
+# [Suamy Hernandez](https://github.com/sumii127):
+# Maden(:
        
